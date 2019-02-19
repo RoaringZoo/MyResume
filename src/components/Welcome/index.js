@@ -5,7 +5,7 @@ export default class extends Component {
     var frames = this.props.welcome.frames
     return (
       <section id='welcome'>
-        <div id='slides'>
+        <div id='hero' className='section'>
           <div className='overlay' />
           <div className='slides-container'>
             {frames.map((frame) => {

@@ -5,23 +5,23 @@
  */
 
 export default {
-  title: 'Cesar Redondo',
-  name: 'Cesar Redondo',
-  linkedinUrl: 'https://www.linkedin.com/in/credondocr',
+  title: 'Brian Austgen',
+  name: 'Brian Austgen',
+  linkedinUrl: 'https://www.linkedin.com/in/brianaustgen/',
   pageDescription: 'My personal webpage.',
   googleAnalyticsId: 'UA-61313187-2',
   welcome: {
-    name: 'Cesar Redondo',
-    country: 'Costa Rica',
+    name: 'Brian Austgen',
+    country: 'United States',
     frames: ['images/slides/1.jpg', 'images/slides/2.jpg', 'images/slides/3.jpg'],
-    job: 'Developer'
+    job: 'Marketer & Web Developer'
   },
-  jobPosition: 'Senior Software Engineer',
-  description: 'I enjoy working with technology, I really feel comfortable coding or just learning new libraries or programming tools. I like to search the better way to solve problems without forget the performance and good development practices. I believe that you can achieve whatever you want through technology! Bytes and Silicon rocks my life!',
+  jobPosition: 'Acquisition Marketing Manager',
+  description: 'I enjoy learning new libraries and programming tools. I like to search the better way to solve problems without forget the performance and good development practices. I believe that you can achieve whatever you want through technology! Bytes and Silicon rocks my life!',
   slogan: 'Bytes and Sillicon rocks my live!',
   hobbies: [
     {
-      title: 'Tech-Lover',
+      title: 'Disc Golf',
       icon: 'heart'
     },
     {
@@ -29,30 +29,25 @@ export default {
       icon: 'coding'
     },
     {
-      title: 'Cloud Computing',
+      title: 'Legos',
       icon: 'cloud'
     }
   ],
   skills: [
     {
-      percent: '90',
+      percent: '80',
       title: 'NodeJs',
       description: '() => console.log(\'In Love\')'
     },
     {
-      percent: '60',
-      title: 'Java',
-      description: 'public void foo(){ awesomeMethod(); }'
-    },
-    {
-      percent: '80',
+      percent: '70',
       title: 'React',
-      description: 'No words :)'
+      description: 'I love static sites'
     },
     {
       percent: '85',
       title: 'Responsive Design',
-      description: 'I love it <3'
+      description: ''
     },
     {
       percent: '90',
@@ -65,34 +60,24 @@ export default {
       description: '.awesomeClass{ position:good; :D! }'
     },
     {
-      percent: '95',
+      percent: '75',
       title: 'Javascript',
       description: 'function awesome() { return <3; }'
     },
     {
-      percent: '75',
+      percent: '15',
       title: 'PHP',
-      description: 'echo "I feel fine with php code";'
+      description: 'echo "I rarely use this";'
     },
     {
-      percent: '85',
+      percent: '25',
       title: 'SQL Databases',
       description: 'select niceHabits from myself;  Clean code '
     },
     {
-      percent: '90',
+      percent: '70',
       title: 'NoSQL Databases',
       description: '<3'
-    },
-    {
-      percent: '80',
-      title: 'Test Driven Development',
-      description: 'Red - Green - Refactor'
-    },
-    {
-      percent: '75',
-      title: 'Continuous Integration',
-      description: 'Jenkins, Ready to build!!!'
     },
     {
       percent: '90',
@@ -100,9 +85,9 @@ export default {
       description: 'git commit issue closed :D'
     },
     {
-      percent: '80',
+      percent: '60',
       title: 'Docker',
-      description: 'docker-compose'
+      description: 'docker-compose is my favorite'
     },
     {
       percent: '70',
